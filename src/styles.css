@@ -1,0 +1,37 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  img {
+    width: 250px;
+    padding: 1rem;
+  }
+  
+  h1 {
+    color: #854d0e;
+    padding: 1rem;
+  }
+  
+  button {
+    margin: 1.5rem;
+    padding: 0.7rem;
+    border-radius: 0.5rem;
+    background-color: #eab308;
+    cursor: pointer;
+    font-size: medium;
+  }
+  
+  li {
+    list-style: none;
+    margin: 1rem;
+    background-color: #fefce8;
+    max-width: 40%;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .lists {
+    padding: 1rem;
+  }
+  
